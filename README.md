@@ -16,9 +16,9 @@ ChangeLog
 TODO
 ----
 
-[x] Upload a distribution jar file
-[x] Add the sample codes
-[x] Add the Ant Script
+- [x] Upload a distribution jar file
+- [x] Add the sample codes
+- [x] Add the Ant Script
 
 License
 -------
